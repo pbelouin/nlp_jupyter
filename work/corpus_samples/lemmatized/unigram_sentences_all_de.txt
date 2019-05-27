@@ -1,0 +1,161 @@
+Sternwarte Wien Oarr Sternwarte München ausführen
+
+
+Konstante g
+val
+abs
+
+
+Wien M.-G. I.
+°
+°
+
+m
+
+cm
+sek-2
+definieren
+wienern g-System allgemein Grundlage relativ g-Messungen beibehalten näherungsweise ermitteln Reduktionsbeträge Beobachtungsreihen Herrn Professor HELMERT dienen System angepaßt Normalformel ableiten Darstellung Verlauf Schwerkraft Erdoberfläche verwenden
+
+
+
+erwähnen berichten S. weisen Herr Professor
+HELMERT
+wienern Fundamentalkonstante ander Material gestützten Untersuchung
+wahrscheinlich Korrektion cm sek-2 bedürfe
+alt meist beträchtlich systematisch Fehler behaften absolut Messung Ableitung Normalwertes g eignen erscheinen leiten absolut Bestimmung g Potsdam Weg
+ausgedehnt Elimination systematisch Fehler
+Bedacht nehmend Arbeit Reversionspendeln preußisch Geodätische Institut österreichisch italienisch Reversionspendel verwenden miteinander vergleichen
+Resultat Beobachtungsort Potsdam Pendelsaa.1 Geodätische Institut H
+g
+val
+abs
+
+
+° 22:9
+°
+4'.1
+m
+± cm sek-2
+
+
+
+
+einig alt absolut Messungsergebnissen harmonierend Wert bedingt weiterhin sehen Korrektion wienern Fundamentalkonstanten
+cm sek
+
+Zeitraum erwähnen Arbeit ungefähr relative g-Messungen hinzugekommen wiederum Anzahl Verbindung Hauptstationen insbesondere Potsdam
+
+Mitteilung Kaiserl
+Königl
+Militeer-Geographischen Institutes X. binden
+S.
+
+XI
+binden S. .XII
+binden S.
+
+
+
+normale Schwerkraft Meeresniveceu F. R. 1,,,rAnmir
+Sitzungsberichte
+
+
+
+Königl preuß
+Akademie Wissenschaft Berlin mefrz S. 328.u
+f
+
+
+
+
+
+Bestimmung absolut Größe Schwerkraft Potsdam Reversionspendeln Professor Dr. F. KÜHNEN Professor Dr. PH
+FURTWXNGLER
+
+Berlin
+
+
+messung wichtig Frage anbahnen können
+Anschluss hieran Beschluss gefasst Aufforderung Theilnahme Untersuchung grössere Anzahl Sternwarten Institut ergehen lassen
+Grund Anregung verschieden Seite Geneigtheit aussprechen gemeinschaftlich Unternehmen Art betheiligen heutig Seite wirklich Beobachtung beginnen
+Umstand Resultat einjährig Beobachtungsreihe Herrn Dr. Küstner Berliner Sternwarte Methode Horrebo w- Ta
+lco
+tt veranlassten Herrn Professor F o Sitzung Konferenz Permanente Kommission Salzburg Antraget Neuem Kommission ernennen Stand Frage beschäftigen nöthigenfalls Permanente Kommission weitergehend Vorschlag sollen
+Ergebnis letzterwähnten Beobachtungsreihe Frage Veränderlichkeit Polhöhe akut Stadium treten Herr Dr. K ü s tn Resultat langen Beobachtung Sternpaare Früh-
+or:20 ± 0':o4 mittler Fehler klein Polhöhe ergeben die- jenigen Frühjahr Frage nahe rücken mehrfach vermutheten säkular Aenderungen Polhöhe Schwan- kungen innerhalb kurz Frist nachweisen
+Möglichkeit derartig Veränderung Folge Erdoberfläche vollziehend meteorologisch Vorgang bestreiten
+erscheinen zweifelhaft Quantität thatsächlich Grenze Messbarkeit erreichen überschreiten
+erwähnen antragen Herrn Professor Fo ster Folge geben Sitzung Bericht Kommission vorlegen Beschluss gefasst permanent Kommission wichtig dringlich Aufgabe Inter- national Erdmessung betrachten nunmehr Mittel Kraft Aufklärung Frage Veränderlichkeit Lage Erdaxe Erdkörper beizu- tragen wünschenswerth Vorbereitung weit umfassend Unter- suchungen Art Vorversuche anstellen Centralbureau übertragen
+reichen besonder Ehre Vorversuche Bericht erstatten
+Erwägung ausgehen maassgebendes Urtheil Methode Anwendung bringend Instrument fortgesetzt Ausführung Breitenbestimmungen erlangen derartig Beobachtung Vergl
+Verhandlung Salzburg abgehalten Konferenz Permanente Kommission Internationale Erdmessung Berlin
+x889 pag
+Vergl
+K üs tn
+Methode Bestimmung Aberrations-Konstante nebst Unter- suchungen Veränderlichkeit Polhöhe Berlin pag
+
+Vergl
+Verhandlung Salzburg abgehalten Konferenz Permanente Kommission Internationale Erdmessung Berlin pag
+EINLEITUNG
+
+historisch Bemerkung wienern Potsdamer Schweresystem
+Einführung STERNEcK'schen Pendelapparats relativ Schweremessungen fast Internationale Erdmessung angehörend Staat lebhaft Förderung erfahren
+allge- meineren Bekanntwerden Apparat liegen Beobachtungsmaterial Station Militär-Geographische Institut Wien öster- reichische Kriegsmarine Herrn STERNECK% Leitung persönlich Mitwirkung weitaus groß Beitrag liefern
+ausführliche Zusammenstellung kritisch Beleuchtung Arbeit Herr Professor
+HELMERT
+XIII
+Allge- Konferenz Internationale Erdmessung Paris vorgelegt berichten g-Werte alt Ursprung enthalten
+
+
+
+Referenz- Hauptstationen gesondert Beobachtungsreihen formen relativ g-Messungen stets darstellen Verbindung genügend zahlen herstellen Herr Professor HELMERT Reihe näherungsweise einheitlich Schweresystem bringen
+wählen Fundamentalstation Militär-Geographische Institut Wien
+Herr
+STERNECK
+absolut Wert Schwerkraft relative Übertragung zweier absolut Bestimmung ermitteln OPPOLZER
+
+Generalmajor Dr.
+ROBERT
+
+STERNECK j verdienstvolle ehemalig Leiter trigono- metrisch Abteilung K. u. K.
+Militär-Geographischen Institut Wien ersinnen Anfang achtziger vorig Jahrhundert äußern kompendiösen Pendelapparat Ver- früh Hilfsmittel Art wesentlich Vereinfachung Verfeinerung Beobachtungsverfahrens gewährt ungeteilt Anerkennung Fachleute erwerben
+STERNECK
+'S Apparat ward Schweremessungen vorher ungeahnter Weise mehren kurz Ländergebiete ausdehnen
+
+
+
+Verhandlung September Oktober Paris abgehalten XIII Konferenz Internationale Erdmessung II S.
+
+VII Tabelle XII
+amerikanisch Messung
+Seite
+Gruppe
+Messung Coast and Geodetic Survey U. S. A. Sekunden-Reversions- Pendel
+
+
+
+Gruppe Messung Coast and Geodetic Survey U. S. A. invariabeln Halb- sekundenpendeln
+
+Gruppe
+Messung Observatoi-v Ottawa Brit
+N. Tabelle
+XIII.Japanische Messung
+Gruppe
+
+Ältere Messung Sekundenpendeln Gruppe
+Messung Kaiserl
+japanisch Gradmessungs-Kommission Alphabetisches Verzeichnis Schwerestationen
+Übersichtskarten
+Blatt I.
+Übersicht geographisch Verteilung Schwerestationen Europa
+Blatt
+II
+Übersicht geographisch Verteilung Schwerestationen erden
+Druckfehler
+S.
+Z. v. o. lesen Länge Straßburg ° 46:1 ° 46:6 S. Z. v. lesen gy g S. Z. v. u. lesen Castellammare Castellamare S. Z. v. o. lesen Tokyo Tokio S. Z. v. o. lesen Gassenmayr Gassenmayer S.
+Z. v. o. lesen Miltenberg Mittenberg S. Z. v. u. lesen Walfischbai Wallfischbei Z. v. u. lesen Süderbrarup Süderbarup S. Z. v. u. lesen Säckingen Säkingen S. Z. v. u. lesen Kavslunde Karslunde S. Z. v. u. lesen Nikolaistad Nikolaistadt Z. v. u. lesen Altona Hamburg
+Altona Z. v. u. lesen Hamburg
+Altona
+Hamburg

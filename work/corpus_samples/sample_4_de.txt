@@ -1,0 +1,184 @@
+                                  2
+
+
+
+
+
+
+
+
+auf der Sternwarte in Wien (1884), die andere durch VON Oarr auf der Sternwarte 
+
+
+
+in München (1877) ausgeführt worden war.*) Das durch die Konstanten
+
+
+
+
+
+
+
+
+
+                                                      g (val. abs.)
+
+
+
+     Wien, M.-G. I.  48° 121.7 16° 211.5  183 m    980.876 cm sek-2
+
+
+
+
+
+
+
+
+
+definierte „Wiener g-System" ist bisher allgemein als Grundlage für die relativen 
+
+
+
+g-Messungen beibehalten worden, und die näherungsweise ermittelten Reduktionsbeträge 
+
+
+
+der Beobachtungsreihen auf dasselbe haben Herrn Prof. HELMERT dazu gedient, eine 
+
+
+
+diesem System angepaßte Normalformel abzuleiten, die seit 1900 zur Darstellung des 
+
+
+
+Verlaufs der Schwerkraft an der Erdoberfläche verwendet wird.**)
+
+
+
+
+
+      In dem oben erwähnten Berichte (S. 374) wies Herr Prof. HELMERT jedoch 
+
+
+
+schon darauf hin, daß die Wiener Fundamentalkonstante, nach seinen auf anderes 
+
+
+
+Material gestützten Untersuchungen; wahrscheinlich einer Korrektion von — 0.015 bis 
+
+
+
+— 0.020 cm sek-2 bedürfe; und da ihm die älteren, meist mit beträchtlichen systematischen 
+
+
+
+Fehlern behafteten absoluten Messungen zur Ableitung eines Normalwertes von g nicht 
+
+
+
+geeignet erschienen, so leitete er im Jahre 1898 eine absolute Bestimmung von g 
+
+
+
+für Potsdam in die Wege. Bei dieser über 8 Jahre ausgedehnten und besonders auf 
+
+
+
+die Elimination systematischer Fehler Bedacht nehmenden Arbeit wurden außer den 
+
+
+
+Reversionspendeln des preußischen Geodätischen Instituts auch die österreichischen und 
+
+
+
+italienischen Reversionspendel verwendet und miteinander verglichen. Das Resultat war 
+
+
+
+für den Beobachtungsort
+
+
+
+
+
+
+
+
+
+            Potsdam, Pendelsaa.1 des Geodätischen Instituts:
+
+
+
+
+                              H              g (val. abs.)
+
+
+
+
+         52° 22:9  13° 4'.1  87 m    981.274 ± 0.003 cm sek-2.***)
+
+
+
+
+
+
+
+
+
+      Dieser mit einigen älteren absoluten Messungsergebnissen recht gut harmonierende 
+
+
+
+Wert bedingt, wie wir weiterhin sehen werden, in der Tat eine Korrektion der Wiener 
+
+
+
+Fundamentalkonstanten von — 0.016 cm sek 2.
+
+
+
+
+      In dem Zeitraum von 1900 bis 1906 sind zu den schon erwähnten Arbeiten noch 
+
+
+
+
+ungefähr 800 neue relative g-Messungen hinzugekommen, unter denen sich wiederum eine 
+
+
+
+Anzahl Verbindungen von Hauptstationen — insbesondere auch solChe mit Potsdam —
+
+
+
+
+
+
+
+
+      *) Mitteilungen des Kaiserl. und Königl. Militeer-Geographischen Institutes, X. Band, 1890, 
+
+
+
+S. 82; XI. Band, 1891, S. 161 und .XII. Band,' 1892, S. 227.
+
+
+
+
+      *5) Der normale Teil der Schwerkraft im Meeresniveceu, von F. R. 1-1,,,rAnmir; Sitzungsberichte
+  .  .      .
+
+
+der Königl, preuß. Akademie der Wissenschaften zu Berlin vom 14. mefrz 1901, S. 328.u. f..
+
+
+
+
+  •  ***) Bestimmung der absoluten Größe der Schwerkraft zu Potsdam mit Reversionspendeln, von
+
+
+
+Prof. Dr. F. KÜHNEN und Prof. Dr. PH. FURTWXNGLER ; Berlin 1906.
+
