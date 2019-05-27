@@ -13,6 +13,3 @@ services:
   #   image: nlpbox/corenlp
   #   ports:
   #     - '9000:9000'
-
-volumes:
-  scypi:
