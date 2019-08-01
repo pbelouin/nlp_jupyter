@@ -2,7 +2,7 @@ FROM jupyter/scipy-notebook:latest
 
 USER root
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends python-numpy libicu-dev
+    apt-get install -y --no-install-recommends python3-dev python-numpy libicu-dev libboost-python-dev libboost-filesystem-dev libleveldb-dev
 
 WORKDIR /home/jovyan/work
 
@@ -19,7 +19,7 @@ RUN conda install --quiet --yes \
   'langdetect' \
   'tabpy-server' \
   'nltk' \
-  'wordcloud'
+  'wordcloud' 
 
 RUN python -m spacy download de_core_news_md
 RUN python -m spacy download fr_core_news_md
